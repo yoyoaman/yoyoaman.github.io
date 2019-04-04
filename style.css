@@ -1,0 +1,22 @@
+body{
+	background-image: url(header.jpg);
+	background-size:100%;
+}
+div>h2{
+	color:pink;
+	font-family: sans-serif;
+	margin-top: 23%;
+	margin-left: 32%;
+}
+.button{
+	background-color: red;
+	color: white;
+	padding: 5px;
+	border-radius: 25px;
+	transition: all 1s;
+	margin-top:13%;
+	margin-left: 45%;
+}
+.button:hover{
+	transform: scale(1.2);
+}
