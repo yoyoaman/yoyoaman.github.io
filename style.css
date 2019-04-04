@@ -1,6 +1,6 @@
 body{
 	background-image: url(header.jpg);
-	background-size:100%;
+	background-size:cover;
 }
 div>h2{
 	color:pink;
